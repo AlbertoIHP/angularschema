@@ -3,6 +3,8 @@
 
 # This is an pre configured project of angular 5, it has the configuration routes with each file commented, it also has been configurated to run over HTTPS with self-signed SSL certificated.
 
+### UPDATE: FIRST YOU HAVE TO DELETE .angular-cli.json and run `ng init` and answer with n everything.
+
 ### First thing to do is an `npm install`
 
 ### Replace the `server.crt` `server.key` `server.csr` with the same name, but with your SSL files to put it with a real SSL certificate
